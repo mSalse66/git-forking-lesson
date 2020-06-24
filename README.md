@@ -13,7 +13,7 @@
 Enter your favorite colour under the **Colours** heading below. Push to a branch on your fork and raise a pull request to merge to master.
 
 ### Colours
-
+Lapis Lazuli
 
 ## Task 3 - Alphabetical names
 
